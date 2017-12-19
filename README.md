@@ -55,3 +55,7 @@ rake
 Source
 ------
 http://wwwap.hi.u-tokyo.ac.jp/ships/itaiji_list.jsp
+
+Acknowledgement
+------
+Additions of characters made by harumukanon are partially based on The Definition Table for Kanji Unification Index developed by the National Institute of Informatics working together with Yasunori Wakayama of the Reitaku University Library.
